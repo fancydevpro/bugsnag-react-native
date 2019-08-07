@@ -3,6 +3,7 @@
 #import "BugsnagReactNative.h"
 #import "RCTVersion.h"
 #import <React/RCTConvert.h>
+#import <React/RCTVersion.h>
 
 NSString *const BSGInfoPlistKey = @"BugsnagAPIKey";
 
